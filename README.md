@@ -18,4 +18,4 @@ You can view the calls posted at a test endpoint [here](https://beeceptor.com/co
 1. You can't select a Duration Asleep longer than your Duration in Bed, perhaps you're sleeping more elsewhere however we're not accounting for that at this time.
 2. The select modal must be closed by the close button rather than clicking out of the modal. With more time this would be much more polished on the FE.
 3. I've also added a few tests. One is a component test as well as a function util test. Normally I'd break all of my components out into more abstract components with more tests however I didn't want to go over time.
-4. Enjoy!
+4. [Enjoy](https://media.giphy.com/media/Y4pAQv58ETJgRwoLxj/giphy-downsized-large.gif)!
